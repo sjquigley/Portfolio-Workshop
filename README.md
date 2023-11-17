@@ -3,7 +3,7 @@
 # *Portfolio Workshop*
 ***Learn methods for working with code and scaffolding assignments in portfolio-based TPC (Technical and Professional Communication) courses.*** 
 
-![QRcode](qrcode.jpg)
+![QRcode](qrcode.png)
 <p>&nbsp;</p>
 
 ## Workshop Goals
