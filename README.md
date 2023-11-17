@@ -1,22 +1,24 @@
 ![banner](fuego.png)
 
 # *Portfolio Workshop*
-***Learn methods for working with code and scaffolding assignments in portfolio-based TPC (Technical and Professional Communication) courses.*** 
+***Learn methods for working with code and scaffolding assignments in portfolio-based courses.*** 
 
 ![QRcode](qrcode.png)
+
+### https://bit.ly/3sDo6rE
 <p>&nbsp;</p>
 
 ## Workshop Goals
 
 ***Learn...***
 
-* tools, methods, and best practices for working with code in portfolio-based classroom.
+* tools, methods, and best practices for working with code in the portfolio-based classroom (think: TPC).
 
-* how to use a code editor to work with code.
+* how to use a code editor.
 
-* how to build repositories and host sites using GitHub.
+* how to build repositories and host sites with GitHub.
 
-* how to find resources and support to sustain your learning. <p>&nbsp;</p>
+* how to find resources and support to sustain *your* learning. <p>&nbsp;</p>
 
 
 ## Proceedings 
@@ -32,29 +34,34 @@
 * [Workshop Feedback](https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. <p>&nbsp;</p>
 
 
-## Design Course Code Assignmnet Cycle
+## Design Course Code Assignment Cycle
 
 [I am...a project in becoming ](https://github.com/Pitt-Fuego/I-am-a-project-in-becoming)- Start your course with an intro to code icebreaker.
 
 [Digital Media Course Portfolio](https://github.com/Pitt-Fuego/digital-media-course-portfolio) - Submitted three times during semester (3 content sections, non-cumulative grading.)
-<p>&nbsp;</p>
- 
+
+[Sample Rubric](https://pitt-my.sharepoint.com/:w:/r/personal/sjq4_pitt_edu/Documents/Pitt/Technical%20Communications/Integrating%20Writing%20and%20Design/Portfolio/PortfolioShortForm.docx?d=wfa87ed5a4b534b6aa3d68f2ea41560a1&csf=1&web=1&e=fxUx2z)
+ <p>&nbsp;</p>
 
 
-## Tech Comm Code Assignmnet Cycle
+## Tech Comm Code Assignment Cycle
 
 [I am...a project in becoming ](https://github.com/Pitt-Fuego/I-am-a-project-in-becoming)- Start your course with an intro to code icebreaker.
 
 [Elevator Pitch Generator](https://github.com/Pitt-Fuego/elevator-pitch-generator) - Students submit project ideas using stasis theory. 
 
-[Bootstrap Portfolio Website](https://startbootstrap.com/themes)- Code Templates for your Writing Classroom
+[Bootstrap Portfolio Website](https://startbootstrap.com/themes)- Code Templates for your Writing Classroom<p>&nbsp;</p>
+
+## Create an Open Fuego fork for your Institution
+
+[Open this repository](https://github.com/Open-Fuego/Open-Fuego-Coding-Tools) and follow the instruction on the ReadMe.<p>&nbsp;</p> Forking allows others in our open-source community to follow and access your work, just as you have benefitted from this repository. ALL content may be adapted for your own institution, its purposes, and students. 
 
 
 ## Additional Resources
 
 - [Bootstrap Themes](https://startbootstrap.com/themes)- Code Templates for your Writing Classroom.
 - [W3](https://www.w3schools.com) - Provides a wide range of code reference, tutorials, and a sandbox allowing code play.
-- [W3 Bootstrap](https://www.w3schools.com/bootstrap/) Find resources for Boostrap 3.
+- [W3 Bootstrap](https://www.w3schools.com/bootstrap/) Find resources for Bootstrap 3.
 - [Stack Overflow](https://stackoverflow.com) - Code questions and aggregated answers.
 - [MarkDown Reference](https://daringfireball.net/projects/markdown/) - Write Markdown like a pro. 
 - [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom) - Tools/strategies for teaching collaboration on GitHub. 
@@ -88,7 +95,7 @@ Setting up Visual Studio Code for Windows and CodePad for Chromebooks (Our recom
 
 1. Download "**[Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)**" from Chrome Web Store.
 1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
+1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)
 
 
 
