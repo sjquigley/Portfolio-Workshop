@@ -3,7 +3,7 @@
 # *Portfolio Workshop*
 ***Learn methods for working with code and scaffolding assignments in portfolio-based courses.*** 
 
-![QRcode](qrcode.png)
+![QRcode](qrcode.jpg)
 
 ### https://bit.ly/3sDo6rE
 <p>&nbsp;</p>
